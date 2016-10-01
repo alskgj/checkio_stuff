@@ -98,6 +98,7 @@ def color_map(region):
 
 
 if __name__ == "__main__":
+
     print(color_map((
         (0, 0, 0),
         (0, 1, 1),
@@ -112,3 +113,4 @@ if __name__ == "__main__":
     )))
 
 
+    #  Todo: Look into merging is_valid and is_solved.
